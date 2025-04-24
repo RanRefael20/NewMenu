@@ -1,0 +1,177 @@
+body {
+  margin: 0;
+  font-family: "Arial", sans-serif;
+  background-color: #f8f1e7;
+  color: #1c1c1c;
+}
+
+.header-container {
+  position: relative;
+  text-align: center;
+  padding: 20px;
+}
+
+.header-container h1 {
+  margin: 0;
+  font-size: 4.8em;
+  color: #f8cc3b;
+  font-family: serif;
+}
+
+.header-container h2 {
+  margin: 0;
+  font-size: 2.4em;
+  color: #f3bc08a8;
+  font-family: serif;
+}
+
+.kosher {
+  width: 90px;
+  height: 90px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-weight: bold;
+  color: #f8cc3b;
+  border: 3px solid #f8cc3b;
+  border-radius: 50%;
+  transform: rotate(10deg);
+  font-size: 0.65rem;
+  padding: 8px;
+  box-sizing: border-box;
+  line-height: 1.2;
+  position: absolute;
+  top: 25px;
+  right: 250px;
+}
+
+.all {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  max-width: 1200px;
+  margin: auto;
+  align-items: stretch;
+}
+
+.menu {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+}
+
+.section {
+  background-color: #f8f1e7;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 1px;
+}
+
+.section h3 {
+  margin-top: 10px;
+position: relative;
+  font-size: 1.2em;
+  color: white;
+  background-color: #f8cc3b;
+  padding: 10px 15px;
+  border-top-right-radius: 8px;
+  border-top-left-radius: 8px;
+  width: 94%;
+  left:2px ;
+  direction: rtl;
+}
+
+.item {
+  margin-bottom: 10px;
+}
+
+.item span {
+  display: inline-block;
+  float: left;
+  font-weight: bold;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #f8cc3b;
+  color: white;
+}
+
+footer a {
+  color: #f1faee;
+  text-decoration: none;
+}
+
+/* רספונסיביות למסכים קטנים */
+@media (max-width: 390px) {
+  .one{
+    margin-top: -200px;
+  }
+  .header-container h1 {
+    
+    font-size: 2.5em;
+  }
+
+  .header-container h2 {
+    font-size: 1.3em;
+  }
+
+  .kosher {
+    width: 70px;
+    height: 70px;
+    font-size: 0.6rem;
+    padding: 1px;
+    line-height: 1.1;
+    top: 10px;
+    right: 10px;
+    transform: rotate(8deg);
+  }
+
+  .all {
+    flex-direction: column;
+    padding: 10px;
+  }
+
+  .menu {
+    padding: 0;
+  }
+
+  .section h3 {
+
+    font-size: 1em;
+    padding: 8px;
+  }
+
+  .item {
+    position: relative;
+    right: 15px;
+    direction: rtl;
+    font-size: 0.95em;
+  }
+
+  footer {
+    position: relative;
+    font-size: 0.8em;
+    padding: 15px;
+    top: 190px;
+  }
+}
+
+
+
+
+.image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+  width: 100%;
+  background-color: #FFF7D4;
+}
+.SectionLogo {
+  height: 100%;
+}
