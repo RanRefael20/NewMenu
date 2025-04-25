@@ -49,7 +49,7 @@ function App() {
 </div>
 
 <footer>
-  <div>
+  <div className='num'>
     050-2255425 | 052-3225482 <a href="https://instagram.com/Julias.bakery" target="_blank"></a>
   </div>
 </footer>
