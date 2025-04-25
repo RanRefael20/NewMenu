@@ -15,18 +15,22 @@ function App() {
   <div className="kosher">כל המוצרים<br />בד"ץ</div>
 </header>
 
-<div className="all">
+
   <div className="menu">
 
-      <div class="section">
-        <h3>פסטות</h3>
-        <div class="item">פסטה שמנת פטריות | 4.5 ליטר......180₪</div>
-        <div class="item">פסטה רוזה | 4.5 ליטר......180₪</div>
-        <div class="item">פסטה עגבניות | 4.5 ליטר......180₪</div>
-        <div class="item">פסטה פסטו שמנת | 4.5 ליטר......180₪</div>
-        <div class="item">לזניה | 4.5 ליטר......180₪</div>
-        <div class="item">תפו"א מוקרם | 4.5 ליטר......180₪</div>
-      </div>
+  <div class="section">
+<h3>קינוחים</h3>
+<div class="item">מגש פובלובות | 30 יחידות.............300₪</div>
+<div class="item">מגש פחזניות | 30 יחידות............320₪</div>
+<div class="item">מגש קונוסים במילוי קרם | 30 יחידות......300₪</div>
+<div class="item">מגש טארלטים במילוי טעמים שונים | 28 יחידות......220₪</div>
+<div class="item">מגש עוגיות גדול - תמרים , שקדים ובראוניז .....280₪</div>
+<div class="item">מגש עוגות גדול - תפוזים , גזר , שוקולד ......200₪</div>
+<div class="item">עוגת שמרים שוקולד | 2 פסים.......210₪</div>
+<div class="item">עוגת קדאיף | קוטר 29.......230₪</div>
+<div class="item">אצבעות מילפיי | 20 יחידות.......310₪</div>
+<div class="item">מגש פירות העונה.......280₪</div>
+</div>
 
 
   </div>
@@ -38,16 +42,7 @@ function App() {
 
    
 
-      <div class="section">
-        <h3>קישים ומאפים</h3>
-        <div class="item">קיש גבינות וברוקולי | קוטר 29.............180₪</div>
-        <div class="item">קיש גבינות ובטטה | קוטר 29............180₪</div>
-        <div class="item">קיש גבינות ופטריות | קוטר 29.............180₪</div>
-        <div class="item">קיש גבינות ותירס | קוטר 29.............180₪</div>
-        <div class="item">קיש גבינות ובצלים | קוטר 29.............180₪</div>
-        <div class="item">מגש לחמי הבית בליווי מטבלים......250₪</div>
-        <div class="item">מגש לחם שום | 20 יחידות.........180₪</div>
-      </div>
+   
 
 
   </div>
@@ -58,7 +53,7 @@ function App() {
     050-2255425 | 052-3225482 <a href="https://instagram.com/Julias.bakery" target="_blank"></a>
   </div>
 </footer>
-</div>
+
     </>
   )
 }
