@@ -72,11 +72,10 @@ body {
   margin-left: 6px;
   width: 85%;
   position: relative;
-  top: -75px;
+  top: -67px;
   right: -45px;
 
 
- 
 }
 
 .num{
@@ -130,14 +129,14 @@ footer a {
   .header-container h1 {
     font-size: 2.5em;
     position: relative;
-    top: -90px;
+    top: -83px;
     right: -40px;
   }
 
   .header-container h2 {
     font-size: 1.3em;
     position: relative;
-    top: -90px;
+    top: -83px;
     right: -40px;
   }
 
@@ -147,7 +146,7 @@ footer a {
     font-size: 0.6rem;
     padding: 1px;
     line-height: 1.1;
-    top: -90px;
+    top: -83px;
     right: -57px;
     transform: rotate(22deg);
   }
@@ -177,7 +176,7 @@ footer a {
     position: relative;
     font-size: 0.9em;
     padding: 15px;
-    top: -20px;
+    top: -10px;
     width: 120%;
     
     
