@@ -72,8 +72,8 @@ body {
   margin-left: 6px;
   width: 85%;
   position: relative;
-  top: -90px;
-  right: -30px;
+  top: -75px;
+  right: -50px;
 
 
  
@@ -127,14 +127,14 @@ footer a {
     font-size: 2.5em;
     position: relative;
     top: -90px;
-    right: -20px;
+    right: -45px;
   }
 
   .header-container h2 {
     font-size: 1.3em;
     position: relative;
     top: -90px;
-    right: -20px;
+    right: -45px;
   }
 
   .kosher {
@@ -144,7 +144,7 @@ footer a {
     padding: 1px;
     line-height: 1.1;
     top: -90px;
-    right: -40px;
+    right: -60px;
     transform: rotate(22deg);
   }
 
@@ -173,8 +173,9 @@ footer a {
     position: relative;
     font-size: 0.9em;
     padding: 15px;
-    top: -30px;
+    top: -20px;
     width: 120%;
+    
     
   }
 }
