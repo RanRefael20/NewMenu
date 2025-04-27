@@ -15,22 +15,10 @@ function App() {
   <div className="kosher">כל המוצרים<br />בד"ץ</div>
 </header>
 
-<div className="all">
+
   <div className="menu">
 
-  <div class="section">
-<h3>קינוחים</h3>
-<div class="item">מגש פובלובות | 30 יחידות.................300₪</div>
-<div class="item">מגש פחזניות | 30 יחידות.................320₪</div>
-<div class="item">מגש קונוסים במילוי קרם | 30 יחידות.................300₪</div>
-<div class="item">מגש טארלטים במילוי טעמים שונים | 28 יחידות....220₪</div>
-<div class="item">מגש עוגיות תמרים , שקדים ובראוניז................280₪</div>
-<div class="item">מגש עוגות תפוזים , גזר , שוקולד.................200₪</div>
-<div class="item">עוגת שמרים שוקולד | 2 פסים....................210₪</div>
-<div class="item">עוגת קדאיף | קוטר 29.......................230₪</div>
-<div class="item">אצבעות מילפיי | 20 יחידות...................310₪</div>
-<div class="item">מגש פירות העונה...................280₪</div>
-</div>
+
 
 
   </div>
@@ -59,7 +47,7 @@ function App() {
 
   </div>
 </div>
-</div> 
+ 
 
 <footer>
   <div className='num'>
