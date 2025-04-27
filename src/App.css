@@ -71,8 +71,8 @@ body {
   border-radius: 8px;
   width: 87%;
   position: relative;
-  top: -65px; /*67 תחילה */
-  right: -17px; /*45 תחילה */
+  top: -60px; /*67 תחילה */
+  right: -12px; /*45 תחילה */
 }
 
 .num{
@@ -127,14 +127,14 @@ footer a {
     font-size: 2.5em;
     position: relative;
     top: -75px;
-    right: -12px;
+    right: 3px;
   }
 
   .header-container h2 {
     font-size: 1.3em;
     position: relative;
     top: -75px;
-    right: -12px;
+    right: 3px;
   }
   
 
@@ -145,7 +145,7 @@ footer a {
     padding: 1px;
     line-height: 1.1;
     top: -70px;
-    right: 7px;
+    right: 22px;
     transform: rotate(22deg);
   }
 
@@ -174,7 +174,7 @@ footer a {
     position: relative;
     font-size: 0.9em;
     padding: 15px;
-    top: -10px;
+    
     width: 120%;
     
     
