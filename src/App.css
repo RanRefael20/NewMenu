@@ -69,18 +69,15 @@ body {
   background-color: #f8f1e7;
   border: 3px solid #4C3D3D;
   border-radius: 8px;
-  margin-left: 6px;
-  width: 85%;
+  width: 87%;
   position: relative;
-  top: -67px;
-  right: -45px;
-
-
+  top: -73px; /*67 תחילה */
+  right: -4px; /*45 תחילה */
 }
 
 .num{
   position: relative;
-  right: 5px;
+  right:55px;
 }
 .section h3 {
 
@@ -99,7 +96,7 @@ position: relative;
   margin-bottom: 5px;
   color: #C07F00;
   position: relative;
-  top: -15px;
+  top: -25px;
   
 }
 
@@ -129,16 +126,17 @@ footer a {
   .header-container h1 {
     font-size: 2.5em;
     position: relative;
-    top: -83px;
-    right: -40px;
+    top: -80px;
+    right: -3px;
   }
 
   .header-container h2 {
     font-size: 1.3em;
     position: relative;
-    top: -83px;
-    right: -40px;
+    top: -80px;
+    right: -3px;
   }
+  
 
   .kosher {
     width: 70px;
@@ -146,8 +144,8 @@ footer a {
     font-size: 0.6rem;
     padding: 1px;
     line-height: 1.1;
-    top: -83px;
-    right: -57px;
+    top: -73px;
+    right: 16px;
     transform: rotate(22deg);
   }
 
