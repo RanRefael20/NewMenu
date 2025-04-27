@@ -72,12 +72,12 @@ body {
   width: 87%;
   position: relative;
   top: -60px; /*67 תחילה */
-  right: -12px; /*45 תחילה */
+  right: -18px; /*45 תחילה */
 }
 
 .num{
   position: relative;
-  right:55px;
+  right:43px;
 }
 .section h3 {
 
