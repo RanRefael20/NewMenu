@@ -30,7 +30,7 @@ function App() {
 
   <div class="section">
 <h3>סלטים</h3>
-<p class="item"> <p class="shavuot">לכבוד חג שבועות המתקרב עלינו לטובה ולברכה ! 🐮🧀🥛🥮🥖 </p>
+<p class="item"> <p class="shavuot">לכבוד חג שבועות המתקרב עלינו לטובה ולברכה!🐮🧀🥛🥮🥖 </p>
 <p class="shavuot2">אנחנו יוצאים בתפריט מיוחד וחדשני במיוחד בשבילכם !</p> 
 ולכם מנהלים יקרים אנחנו יודעים כמה אתם דואגים לעובדים כדי שכל העובדים יהיו מרוצים ומסופקים ויצאו לחג בהרגשה טובה וחגיגית !! אז מה שבאמת נשאר לכם זה לסגור איתנו ואנחנו נדאג להכל !! <br></br>
 ולכן אנחנו מקדימים ומזכירים לכם שמעכשיו ניתן לסגור הזמנות ! 
