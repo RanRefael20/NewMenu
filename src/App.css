@@ -175,7 +175,17 @@ footer a {
     position: relative;
     right: 6px;
     direction: rtl;
-    font-size: 0.75em;
+    font-weight: bold;
+    font-size: 0.74em;
+    padding-left: 15px;
+  }
+
+  .item .shavuot2 {
+    position: relative;
+    right: 6px;
+    direction: rtl;
+    font-weight: bold;
+    font-size: 0.77em;
     padding-left: 15px;
   }
 
