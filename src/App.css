@@ -166,8 +166,8 @@ footer a {
     position: relative;
     right: 6px;
     direction: rtl;
-    font-size: 0.88em;
-    font-weight: bold;
+    font-size: 0.87em;
+    
     padding-left: 15px;
   }
 
@@ -176,7 +176,7 @@ footer a {
     right: 6px;
     direction: rtl;
     font-weight: bold;
-    font-size: 0.82em;
+    font-size: 0.88em;
     padding-left: 15px;
   }
 
@@ -185,7 +185,7 @@ footer a {
     right: 6px;
     direction: rtl;
     font-weight: bold;
-    font-size: 0.84em;
+    font-size: 0.86em;
     padding-left: 15px;
   }
 
