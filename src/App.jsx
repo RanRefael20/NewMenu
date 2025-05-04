@@ -2,6 +2,8 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
+import logo from "../logo/LL.png";
+
 
 function App() {
   const [count, setCount] = useState(0)
@@ -10,8 +12,10 @@ function App() {
     <>
   <div className='one'>
 <header className="header-container" dir="rtl">
-  <h1>מעדני שנאל</h1>
-  <h2>מגשי אירוח יוקרתיים</h2>
+<img src={logo} alt="Dairy Delights Logo"  className="h1" />
+
+ {/*  <h1>מעדני שנאל</h1>
+  <h2>מגשי אירוח יוקרתיים</h2> */}
   <div className="kosher">כל המוצרים<br />בד"ץ</div>
 </header>
 
