@@ -26,16 +26,16 @@ body {
 }
 
 .kosher {
-  width: 90px;
-  height: 90px;
+  width: 2000px;
+  height:100px;
   display: flex;
   justify-content: center;
   align-items: center;
   text-align: center;
   font-weight: bold;
   color: #4C3D3D;
-  border: 3px solid #f8f1e7;
-  border-radius: 50%;
+  border: 3px solid #4C3D3D;
+  border-radius: 0;
   transform: rotate(10deg);
   font-size: 0.65rem;
   padding: 8px;
@@ -73,7 +73,7 @@ body {
   position: relative;
   top: -60px; /*67 תחילה */
   right: -18px; /*45 תחילה */
-  height: 90%;
+  
 }
 
 .num{
@@ -145,7 +145,7 @@ footer a {
     font-size: 0.6rem;
     padding: 1px;
     line-height: 1.1;
-    top: -30px;
+    top: -5px;
     right: 42px;
     transform: rotate(22deg);
   }
