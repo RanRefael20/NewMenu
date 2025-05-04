@@ -33,8 +33,8 @@ function App() {
 
 
   <div class="section">
-<h3>תפריט שבועות | מעדני שנאל 🐮</h3>
-<p class="item"> <p class="shavuot">לכבוד חג שבועות המתקרב אלינו לטובה ולברכה ! 🐮🧀🥛🥮🥖 </p>
+<h3>תפריט שבועות | מעדני שנאל 🐮🧀🥛🥮</h3>
+<p class="item"> <p class="shavuot">לכבוד חג שבועות המתקרב אלינו לטובה ולברכה !</p>
 <p class="shavuot2">אנחנו יוצאים בתפריט מיוחד וחדשני במיוחד בשבילכם !</p> 
 ולכם מנהלים יקרים , אנחנו יודעים כמה אתם דואגים לכל העובדים שלכם כדי שכל עובד יהיה מרוצה ומסופק ויצא לחג בהרגשה טובה וחגיגית !!<br></br> אז מה שבאמת נשאר לכם זה לסגור איתנו ואנחנו נדאג להכל !! <br></br>
 ולכן אנחנו מקדימים ומזכירים לכם שמעכשיו ניתן לסגור הזמנות ! <br></br> 
