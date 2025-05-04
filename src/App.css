@@ -124,9 +124,9 @@ footer a {
     margin-top: 1px;
   }
   .header-container .h1 {
-    height: 200px;
+    height: 165px;
     position: relative;
-    top: -60px;
+    top: -55px;
     right: 3px;
   }
 
@@ -193,7 +193,7 @@ footer a {
     position: relative;
     font-size: 0.9em;
     padding: 15px;
-    top: -10px;
+    top: -20px;
     width: 120%;
     
     
