@@ -26,8 +26,8 @@ body {
 }
 
 .kosher {
-  width: 2000px;
-  height:100px;
+  width: 200px;
+  height:80px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -145,8 +145,8 @@ footer a {
     font-size: 0.6rem;
     padding: 1px;
     line-height: 1.1;
-    top: -5px;
-    right: 42px;
+    top: 5px;
+    right: 38px;
     transform: rotate(22deg);
   }
 
