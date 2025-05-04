@@ -124,7 +124,7 @@ footer a {
     margin-top: 1px;
   }
   .header-container .h1 {
-    height: 50px;
+    height: 100px;
     position: relative;
     top: -75px;
     right: 3px;
@@ -145,7 +145,7 @@ footer a {
     padding: 1px;
     line-height: 1.1;
     top: -70px;
-    right: 120px;
+    right: 42px;
     transform: rotate(22deg);
   }
 
