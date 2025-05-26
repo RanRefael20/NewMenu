@@ -47,6 +47,20 @@ function App() {
 
   </div>
 </div>
+
+<br></br> <br></br>
+<br></br>
+<br></br>
+<div class="color-box">
+  <div class="color-section section1">רקע מגנט</div>
+  <div class="color-section section2">כיתוב טקסט</div>
+  <div class="color-section section3">מספר טלפון שיהיה על רקע שחור</div>
+  <div class="color-section section4">קו ההפרדה דקורטיבי נחשי חשוב שיהיה דק</div>
+  <div class="color-section section5">צבע אייקונים</div>
+</div>
+<br></br>
+<br></br>
+<br></br>
  
 
 <footer>
@@ -54,6 +68,7 @@ function App() {
     050-2255425 | 052-3225482 <a href="https://instagram.com/Julias.bakery" target="_blank"></a>
   </div>
 </footer>
+
 
     </>
   )
