@@ -74,13 +74,13 @@ body {
   width: 87%;
   position: relative;
   top: -60px; /*67 תחילה */
-  right: -35px; /*45 תחילה */
+  right: -18px; /*45 תחילה */
   
 }
 
 .num{
   position: relative;
-  right:7px;
+  right:45px;
 }
 .section h3 {
 
@@ -90,7 +90,7 @@ position: relative;
   color: #C07F00;
   background-color: #4C3D3D;
   padding: 10px 15px;
-  top: -19px;
+  top: -18px;
   
   direction: rtl;
 }
@@ -148,14 +148,14 @@ footer a {
   .header-container h1 {
 
     position: relative;
-    top: -45px;
-    right: -29px;
+    top: -50px;
+    right: -7px;
   }
 
   .header-container h2 {
     position: relative;
-    top: -45px;
-    right: -30px;
+    top: -50px;
+    right: -9px;
   }
   
 
@@ -165,8 +165,8 @@ footer a {
     font-size: 0.6rem;
     padding: 1px;
     line-height: 1.1;
-    top: -55px;
-    right: -80px;
+    top: -60px;
+    right: 25px;
 /*     transform: rotate(22deg);
  */  }
 
