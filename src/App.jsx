@@ -52,7 +52,7 @@ function App() {
 </div>
 
 <div class="item">
-  מגש פיתות סביח אישיות <br></br> עם סקוויז טחינה ועמבה | 15 יח' / 25 יח'   <span class="sizes"  style={{ position: "relative", top: "21px" }}> 360₪/215₪  </span>
+  מגש פיתות סביח אישיות <br></br> עם סקוויז טחינה ועמבה | 15 יח' / 25 יח'   <span class="sizes"  style={{ position: "relative", top: "21px" , right: "2px" }}> 360₪/215₪  </span>
 </div>
 <div class="item">
   מגש חצאי טורטיות <br></br> במילוי סלט טונה / ביצים | 20 יח'   <span class="sizes"  style={{ position: "relative", top: "20px" }}> 315₪  </span>
