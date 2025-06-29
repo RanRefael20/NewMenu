@@ -125,6 +125,13 @@ footer a {
   .one{
     margin-top: 1px;
   }
+
+    .header-container  {
+
+    position: relative;
+    top: -50px;
+   
+  }
   .header-container h1 {
 
     position: relative;
