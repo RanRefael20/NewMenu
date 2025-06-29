@@ -54,7 +54,7 @@ function App() {
   טרלטים במילוי שמנת וסלמון  | 20 יח' / 30  יח'<span class="sizes"> 285₪ / 190₪  </span>
 </div> 
 <div class="item">
-  מגש פיתות סביח אישיות <br></br>מגיע עם סקוויז טחינה ועמבה  | 15 יח' / 25 יח'  <br></br> <span class="sizes"  style={{ position: "relative", top: "25px" }}> 360₪/215₪  </span>
+  מגש פיתות סביח אישיות <br></br>מגיע עם סקוויז טחינה ועמבה  | 15 יח' / 25 יח'  <br></br> <span class="sizes"  style={{ position: "relative", top: "20px" }}> 360₪/215₪  </span>
 </div>
 <div class="item">
   מגש חצאי טורטיות במילוי סלט טונה / ביצים  | 20 יח'<span class="sizes"> 315₪   </span>
