@@ -94,13 +94,26 @@ position: relative;
   
   direction: rtl;
 }
+.sizes {
+  direction: ltr;
+  font-weight: 400;
+  font-size: 14px;
+  position: relative;
+  left: 10px;
+}
 
 .item {
-  margin-bottom: 5px;
+    margin-bottom: 5px;
   color: #C07F00;
   position: relative;
   top: -25px;
-  
+  direction: rtl;
+  font-size: 16px;
+  font-weight: 500;
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 0;
+  border-bottom: 1px dashed #ccc;
 }
 
 .item span {

@@ -38,14 +38,27 @@ function App() {
 <div class="section">
   
         <h3>מגשי פרימיום</h3>
-        <div class="item">L \ M ...........400₪ \ 300₪מגש גבינות מפנק ועשיר</div>
-        <div class="item">מגש דגים מעושנים...........400₪</div>
-        <div class="item">מגש בורקיטס במילוי ממרח פסטו , בולגרית וחסה לאליק | 30 יחידות.........400₪</div>
-        <div class="item">טארטלים במילוי שמנת וסלמון | 30 יחידות......300₪</div>
-        <div class="item">מגש פריקסה | 25 יחידות...........450₪</div>
-        <div class="item">מגש פיתות סביח אישיות | 25 יחידות...........375₪</div>
-        <div class="item">מגש חצאי טורטיות במילוי סלט טונה \ ביצים | 20 יחידות............330₪</div>
-      </div>
+<div class="item">
+  מגש גבינות עשיר ומפנק  | L / M<span class="sizes"> 385₪ / 285₪  </span>
+</div>
+<div class="item">
+  מגש דגים מעושנים  | L / M<span class="sizes"> 385₪ / 285₪  </span>
+</div> 
+<div class="item">
+  מגש בורקיטס עבודת יד במילוי ממרח פסטו , בולגרית וחסה לאליק   | L / M  <br></br> <span class="sizes"  style={{ position: "relative", top: "25px" }}> 385₪/255₪  </span>
+</div>
+<div class="item">
+  טרלטים במילוי שמנת וסלמון  | 20 יח' / 30  יח'<span class="sizes"> 285₪ / 190₪  </span>
+</div>    
+<div class="item">
+  טרלטים במילוי שמנת וסלמון  | 20 יח' / 30  יח'<span class="sizes"> 285₪ / 190₪  </span>
+</div> 
+<div class="item">
+  מגש פיתות סביח אישיות <br></br>מגיע עם סקוויז טחינה ועמבה  | 15 יח' / 25 יח'  <br></br> <span class="sizes"  style={{ position: "relative", top: "25px" }}> 360₪/215₪  </span>
+</div>
+<div class="item">
+  מגש חצאי טורטיות במילוי סלט טונה / ביצים  | 20 יח'<span class="sizes"> 315₪   </span>
+</div>       </div>
    
 
 
