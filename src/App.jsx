@@ -37,18 +37,25 @@ function App() {
 
 <div class="section">
   
-        <h3>בייגל בייגל</h3>
+        <h3>פסטות | 3 / 4.5 ליט'</h3>
+        
 <div class="item">
-  לחמניות בייגל  בממרח פסטו ,  בולגרית ואנטי-פסטי | 12 יח' / 20 יח'   <span class="sizes"  style={{ position: "relative", top: "21px" , right: "1px" }}> 315₪/189₪  </span>
+   שמנת פטריות      <span class="sizes"  style={{ position: "relative", right: "2px" }}> 385₪/255₪  </span>
 </div>
 <div class="item">
-  לחמניות בייגל  במילוי סלט טונה מפנק וחסה לאליק | 12 יח' / 20 יח'   <span class="sizes"  style={{ position: "relative", top: "21px" , right: "1px" }}> 315₪/189₪  </span>
+ פסטה  רוזה    <span class="sizes"  style={{ position: "relative" , right: "1px" }}> 1655₪/110₪  </span>
 </div>
 <div class="item">
-  לחמניות בייגל  במילוי סלט ביצים  בצל ירוק וחסה לאליק | 12 יח' / 20 יח'   <span class="sizes"  style={{ position: "relative", top: "21px" , right: "1px" }}> 315₪/189₪  </span>
+ פסטה עגבניות     <span class="sizes"  style={{ position: "relative" , right: "1px" }}> 165₪/110₪  </span>
 </div>
 <div class="item">
-  לחמניות בייגל  בממרח שמנת , סלמון ועגבנייה | 12 יח' / 20 יח'   <span class="sizes"  style={{ position: "relative", top: "21px" , right: "1px" }}> 385₪/230₪  </span>
+  פסטה  פסטו שמנת  <br></br> <span class="sizes"  style={{ position: "relative", right: "1px" , top: "21px" }}> 385₪/255₪  </span>
+</div>
+<div class="item">
+ לזניה     <span class="sizes"  style={{ position: "relative" , right: "1px" }}> 165₪/110₪  </span>
+</div>
+<div class="item">
+ תפו"א מוקרם   <span class="sizes"  style={{ position: "relative" , right: "1px" }}> 165₪/110₪  </span>
 </div>
 
 

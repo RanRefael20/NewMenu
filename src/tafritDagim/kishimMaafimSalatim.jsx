@@ -8,23 +8,47 @@
         <div class="item">פילה דניס ברוטב לימוני............450₪</div>
       </div>
 
+
 <div class="section">
         <h3>מגשי פרימיום</h3>
-        <div class="item">מגש גבינות מפנק ועשיר..............400₪</div>
-        <div class="item">מגש דגים מעושנים...........400₪</div>
-        <div class="item">מגש בורקיטס במילוי ממרח פסטו , בולגרית וחסה לאליק | 30 יחידות.........400₪</div>
-        <div class="item">טארטלים במילוי שמנת וסלמון | 30 יחידות......300₪</div>
-        <div class="item">מגש פריקסה | 25 יחידות...........450₪</div>
-        <div class="item">מגש פיתות סביח אישיות | 25 יחידות...........375₪</div>
-        <div class="item">מגש חצאי טורטיות במילוי סלט טונה \ ביצים | 20 יחידות............330₪</div>
-      </div>
-      <div class="section">
+<div class="item">
+  מגש גבינות עשיר ומפנק  | L / M<span class="sizes"> 385₪ / 285₪  </span>
+</div>
+<div class="item">
+  מגש דגים מעושנים  | L / M<span class="sizes"> 385₪ / 285₪  </span>
+</div> 
+<div class="item">
+  מגש בורקיטס עבודת יד במילוי ממרח פסטו , בולגרית וחסה לאליק   | L / M  <br></br> <span class="sizes"  style={{ position: "relative", top: "21px" }}> 385₪/255₪  </span>
+</div>
+<div class="item">
+  טרטלים במילוי שמנת וסלמון |<br></br> 20 יח' / 30 יח'   <span class="sizes"  style={{ position: "relative", top: "21px" }}> 285₪/190₪  </span>
+</div>
+
+<div class="item">
+  מגש פיתות סביח אישיות <br></br> עם סקוויז טחינה ועמבה | 15 יח' / 25 יח'   <span class="sizes"  style={{ position: "relative", top: "21px" , right: "1px" }}> 360₪/215₪  </span>
+</div>
+<div class="item">
+  מגש חצאי טורטיות <br></br> במילוי סלט טונה / ביצים | 20 יח'   <span class="sizes"  style={{ position: "relative", top: "20px" }}> 315₪  </span>
+</div>   
+   </div>
+
+
+  <div class="section">
         <h3>בייגל בייגל</h3>
-        <div class="item">19 לחמניות בייגל עם ממרח פסטו , גבינה בולגרית ואנטי-פסטי..........330₪</div>
-        <div class="item">19 לחמניות בייגל במילוי סלט טונה מפנק וחסה לאליק...............330₪</div>
-        <div class="item">19 לחמניות בייגל במילוי סלט ביצים עם בצל ירוק וחסה לאליק...............330₪</div>
-        <div class="item">19 לחמניות בייגל במילוי ממרח שמנת עם דג סלמון ועגבנייה............400₪</div>
-      </div>
+<div class="item">
+  לחמניות בייגל  בממרח פסטו ,  בולגרית ואנטי-פסטי | 12 יח' / 20 יח'   <span class="sizes"  style={{ position: "relative", top: "21px" , right: "1px" }}> 315₪/189₪  </span>
+</div>
+<div class="item">
+  לחמניות בייגל  במילוי סלט טונה מפנק וחסה לאליק | 12 יח' / 20 יח'   <span class="sizes"  style={{ position: "relative", top: "21px" , right: "1px" }}> 315₪/189₪  </span>
+</div>
+<div class="item">
+  לחמניות בייגל  במילוי סלט ביצים  בצל ירוק וחסה לאליק | 12 יח' / 20 יח'   <span class="sizes"  style={{ position: "relative", top: "21px" , right: "1px" }}> 315₪/189₪  </span>
+</div>
+<div class="item">
+  לחמניות בייגל  בממרח שמנת , סלמון ועגבנייה | 12 יח' / 20 יח'   <span class="sizes"  style={{ position: "relative", top: "21px" , right: "1px" }}> 385₪/230₪  </span>
+</div>
+   </div>
+
 <div class="section">
 <h3>קינוחים</h3>
 <div class="item">מגש פובלובות | 30 יחידות.............300₪</div>
@@ -41,14 +65,27 @@
 
 
 <div class="section">
-        <h3>פסטות</h3>
-        <div class="item">פסטה שמנת פטריות | 4.5 ליטר......180₪</div>
-        <div class="item">פסטה רוזה | 4.5 ליטר......180₪</div>
-        <div class="item">פסטה עגבניות | 4.5 ליטר......180₪</div>
-        <div class="item">פסטה פסטו שמנת | 4.5 ליטר......180₪</div>
-        <div class="item">לזניה | 4.5 ליטר......180₪</div>
-        <div class="item">תפו"א מוקרם | 4.5 ליטר......180₪</div>
-      </div>
+
+        <h3>פסטות | 3 / 4.5 ליט'</h3>
+<div class="item">
+   שמנת פטריות      <span class="sizes"  style={{ position: "relative", right: "2px" }}> 385₪/255₪  </span>
+</div>
+<div class="item">
+ פסטה  רוזה    <span class="sizes"  style={{ position: "relative" , right: "1px" }}> 1655₪/110₪  </span>
+</div>
+<div class="item">
+ פסטה עגבניות     <span class="sizes"  style={{ position: "relative" , right: "1px" }}> 165₪/110₪  </span>
+</div>
+<div class="item">
+  פסטה  פסטו שמנת  <br></br> <span class="sizes"  style={{ position: "relative", right: "1px" , top: "21px" }}> 385₪/255₪  </span>
+</div>
+<div class="item">
+ לזניה     <span class="sizes"  style={{ position: "relative" , right: "1px" }}> 165₪/110₪  </span>
+</div>
+<div class="item">
+ תפו"א מוקרם   <span class="sizes"  style={{ position: "relative" , right: "1px" }}> 165₪/110₪  </span>
+</div>
+   </div>
 
       <div class="section">
         <h3>קישים ומאפים</h3>
