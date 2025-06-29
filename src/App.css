@@ -9,6 +9,7 @@ body {
   position: relative;
   text-align: center;
   padding: 20px;
+  top: -90px;
 }
 
 
@@ -89,7 +90,7 @@ position: relative;
   color: #C07F00;
   background-color: #4C3D3D;
   padding: 10px 15px;
-  top: -17px;
+  top: -19px;
   
   direction: rtl;
 }
@@ -121,16 +122,15 @@ footer a {
 }
 
 /* רספונסיביות למסכים קטנים */
-@media (max-width: 390px) {
+@media (max-width:413px) {
   .one{
     margin-top: 1px;
   }
 
     .header-container  {
-
     position: relative;
-    top: -50px;
-   
+    top: -10px;
+  
   }
   .header-container h1 {
 
@@ -161,7 +161,7 @@ footer a {
 
   .menu {
     padding: 0;
-    margin-left: 10px;
+    margin-left: 5px;
   }
 
   .section h3 {
