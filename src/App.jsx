@@ -12,12 +12,15 @@ function App() {
     <>
   <div className='one'>
 <header className="header-container" dir="rtl">
-<img src={logo} alt="Dairy Delights Logo"  className="h1" />
+{/* <img src={logo} alt="Dairy Delights Logo"  className="h1" />
+ */}
+  <h1>מעדני שנאל</h1>
+  <h2>מגשי אירוח יוקרתיים</h2>
+{/*   <div className="kosher">כל המוצרים<br />בד"ץ</div>
+ */}
+   <div className="kosher">בס"ד</div>
 
- {/*  <h1>מעדני שנאל</h1>
-  <h2>מגשי אירוח יוקרתיים</h2> */}
-  <div className="kosher">כל המוצרים<br />בד"ץ</div>
-</header>
+ </header>
 
 
   <div className="menu">
@@ -32,35 +35,20 @@ function App() {
 
 
 
-  <div class="section">
-<h3>תפריט שבועות | מעדני שנאל 🐮🧀🥛🥮</h3>
-<p class="item"> <p class="shavuot">לכבוד חג שבועות המתקרב אלינו לטובה ולברכה !</p>
-<p class="shavuot2">אנחנו יוצאים בתפריט מיוחד וחדשני במיוחד בשבילכם !</p> 
-ולכם מנהלים יקרים , אנחנו יודעים כמה אתם דואגים לכל העובדים שלכם כדי שכל עובד יהיה מרוצה ומסופק ויצא לחג בהרגשה טובה וחגיגית !!<br></br> אז מה שבאמת נשאר לכם זה לסגור איתנו ואנחנו נדאג להכל !! <br></br>
-ולכן אנחנו מקדימים ומזכירים לכם שמעכשיו ניתן לסגור הזמנות ! <br></br> 
-במידה ואתם מעוניינים שלחו הודעה חוזרת ונחזור אליכם בהקדם האפשרי 🌼❤️</p>
-
-</div> 
-
+    <div className="section">
+      <h3>דגים |</h3>
+      <div className="item">פילה סלמון ברוטב מתקתק......................................................350₪</div>
+      <div className="item">פילה סלמון ברוטב פסטו עם פירורי לחם מעל...350₪</div>
+      <div className="item">פילה מושט ברוטב לימוני , עשבי טיבול ושום....350₪</div>
+      <div className="item">פילה דניס ברוטב לימוני................................450₪</div>
+    </div>
    
 
 
   </div>
 </div>
 
-<br></br> <br></br>
-<br></br>
-<br></br>
-<div class="color-box">
-  <div class="color-section section1">רקע מגנט</div>
-  <div class="color-section section2">כיתוב טקסט</div>
-  <div class="color-section section3">מספר טלפון שיהיה על רקע שחור</div>
-  <div class="color-section section4">קו ההפרדה דקורטיבי נחשי חשוב שיהיה דק</div>
-  <div class="color-section section5">צבע אייקונים</div>
-</div>
-<br></br>
-<br></br>
-<br></br>
+
  
 
 <footer>
