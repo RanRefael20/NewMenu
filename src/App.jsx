@@ -37,26 +37,21 @@ function App() {
 
 <div class="section">
   
-        <h3>מגשי פרימיום</h3>
+        <h3>בייגל בייגל</h3>
 <div class="item">
-  מגש גבינות עשיר ומפנק  | L / M<span class="sizes"> 385₪ / 285₪  </span>
+  לחמניות בייגל  בממרח פסטו ,  בולגרית ואנטי-פסטי | 12 יח' / 20 יח'   <span class="sizes"  style={{ position: "relative", top: "21px" , right: "1px" }}> 315₪/189₪  </span>
 </div>
 <div class="item">
-  מגש דגים מעושנים  | L / M<span class="sizes"> 385₪ / 285₪  </span>
-</div> 
-<div class="item">
-  מגש בורקיטס עבודת יד במילוי ממרח פסטו , בולגרית וחסה לאליק   | L / M  <br></br> <span class="sizes"  style={{ position: "relative", top: "21px" }}> 385₪/255₪  </span>
+  לחמניות בייגל  במילוי סלט טונה מפנק וחסה לאליק | 12 יח' / 20 יח'   <span class="sizes"  style={{ position: "relative", top: "21px" , right: "1px" }}> 315₪/189₪  </span>
 </div>
 <div class="item">
-  טרטלים במילוי שמנת וסלמון |<br></br> 20 יח' / 30 יח'   <span class="sizes"  style={{ position: "relative", top: "21px" }}> 285₪/190₪  </span>
+  לחמניות בייגל  במילוי סלט ביצים  בצל ירוק וחסה לאליק | 12 יח' / 20 יח'   <span class="sizes"  style={{ position: "relative", top: "21px" , right: "1px" }}> 315₪/189₪  </span>
+</div>
+<div class="item">
+  לחמניות בייגל  בממרח שמנת , סלמון ועגבנייה | 12 יח' / 20 יח'   <span class="sizes"  style={{ position: "relative", top: "21px" , right: "1px" }}> 385₪/230₪  </span>
 </div>
 
-<div class="item">
-  מגש פיתות סביח אישיות <br></br> עם סקוויז טחינה ועמבה | 15 יח' / 25 יח'   <span class="sizes"  style={{ position: "relative", top: "21px" , right: "1px" }}> 360₪/215₪  </span>
-</div>
-<div class="item">
-  מגש חצאי טורטיות <br></br> במילוי סלט טונה / ביצים | 20 יח'   <span class="sizes"  style={{ position: "relative", top: "20px" }}> 315₪  </span>
-</div>   
+
    </div>
    
 
