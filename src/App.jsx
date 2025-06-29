@@ -36,9 +36,8 @@ function App() {
 
 
 <div class="section">
-  
+
         <h3>פסטות | 3 / 4.5 ליט'</h3>
-        
 <div class="item">
    שמנת פטריות      <span class="sizes"  style={{ position: "relative", right: "2px" }}> 385₪/255₪  </span>
 </div>
@@ -57,8 +56,6 @@ function App() {
 <div class="item">
  תפו"א מוקרם   <span class="sizes"  style={{ position: "relative" , right: "1px" }}> 165₪/110₪  </span>
 </div>
-
-
    </div>
    
 

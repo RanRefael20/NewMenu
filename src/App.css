@@ -74,13 +74,13 @@ body {
   width: 87%;
   position: relative;
   top: -60px; /*67 תחילה */
-  right: -18px; /*45 תחילה */
+  right: -35px; /*45 תחילה */
   
 }
 
 .num{
   position: relative;
-  right:43px;
+  right:7px;
 }
 .section h3 {
 
@@ -148,14 +148,14 @@ footer a {
   .header-container h1 {
 
     position: relative;
-    top: -50px;
-    right: -4px;
+    top: -45px;
+    right: -29px;
   }
 
   .header-container h2 {
     position: relative;
-    top: -50px;
-    right: -6px;
+    top: -45px;
+    right: -30px;
   }
   
 
@@ -165,8 +165,8 @@ footer a {
     font-size: 0.6rem;
     padding: 1px;
     line-height: 1.1;
-    top: -60px;
-    right: 25px;
+    top: -55px;
+    right: -80px;
 /*     transform: rotate(22deg);
  */  }
 
