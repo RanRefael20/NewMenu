@@ -79,7 +79,7 @@ body {
   position: relative;
   top: -50px; /*67 תחילה */
   right: -6px; /*45 תחילה */
-  height: 590px;
+  height: 595px;
 }
 
 
@@ -148,7 +148,7 @@ footer a {
 
     .header-container  {
     position: relative;
-    top: 15px;
+    top: 18px;
     right: 50px;
   }
   .header-container h1 {
@@ -171,8 +171,8 @@ footer a {
     font-size: 0.6rem;
     padding: 1px;
     line-height: 1.1;
-    top: -50px;
-    right: -20px;
+    top: -53px;
+    right: -33px;
 /*     transform: rotate(22deg);
  */  }
 
@@ -211,7 +211,7 @@ font-weight: 300;
     position: relative;
     font-size: 0.9em;
     padding: 15px;
-    top: -45px;
+    top: -35px;
     width: 120%;
   }
 
