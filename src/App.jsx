@@ -78,7 +78,7 @@ function App() {
    קיש גבינות וברוקולי |<br></br> קוטר 29      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "20px" }}> 165₪  </span>
 </div>
 <div class="item">
-   מגש לחמים בלווי מטבלים      <span class="sizes"  style={{ position: "relative", right: "2px"  }}> 235₪  </span>
+   מגש לחמים בלווי מטבלים      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "1px" }}> 235₪  </span>
 </div>
 <div class="item">
    מגש לחם שום |<br></br> 10 יח' / 20 יח'      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "20px" }}> 165₪/80₪  </span>
