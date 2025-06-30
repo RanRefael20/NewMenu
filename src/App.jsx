@@ -44,17 +44,17 @@ function App() {
   מגש דגים מעושנים  | L / M<span class="sizes"> 385₪ / 285₪  </span>
 </div> 
 <div class="item">
-  מגש בורקיטס עבודת יד במילוי ממרח פסטו , בולגרית וחסה לאליק   | 20 יח' / 30 יח'  <br></br> <span class="sizes"  style={{ position: "relative", top: "21.5px" }}> 385₪/255₪  </span>
+  מגש בורקיטס עבודת יד במילוי ממרח פסטו , בולגרית וחסה לאליק   | 20 יח' / 30 יח'  <br></br> <span class="sizes"  style={{ position: "relative", top: "22px" }}> 385₪/255₪  </span>
 </div>
 <div class="item">
-  טרטלים במילוי שמנת וסלמון |<br></br> 20 יח' / 30 יח'   <span class="sizes"  style={{ position: "relative", top: "21.5px" }}> 285₪/190₪  </span>
+  טרטלים במילוי שמנת וסלמון |<br></br> 20 יח' / 30 יח'   <span class="sizes"  style={{ position: "relative", top: "22px" }}> 285₪/190₪  </span>
 </div>
 
 <div class="item">
-  מגש פיתות סביח אישיות <br></br> עם סקוויז טחינה ועמבה | 15 יח' / 25 יח'   <span class="sizes"  style={{ position: "relative", top: "21.5px"  }}> 360₪/215₪  </span>
+  מגש פיתות סביח אישיות <br></br> עם סקוויז טחינה ועמבה | 15 יח' / 25 יח'   <span class="sizes"  style={{ position: "relative", top: "22px"  }}> 360₪/215₪  </span>
 </div>
 <div class="item">
-  מגש חצאי טורטיות <br></br> במילוי סלט טונה / ביצים | 20 יח'   <span class="sizes"  style={{ position: "relative", top: "20.5px" }}> 315₪  </span>
+  מגש חצאי טורטיות <br></br> במילוי סלט טונה / ביצים | 20 יח'   <span class="sizes"  style={{ position: "relative", top: "21px" }}> 315₪  </span>
 </div>   
    </div>
    
