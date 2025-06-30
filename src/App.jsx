@@ -66,7 +66,7 @@ function App() {
    סלט כרוב עם פיצוחים ברוטב חמאת בוטנים |<br></br> 3 / 4.5 ליט'      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 165₪/110₪  </span>
 </div>
 <div class="item">
-    מיקס ירוקים עם בטטה צרובה ושקדים ברוטב מתוק|<br></br> 3 / 4.5 ליט'      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 165₪/110₪  </span>
+    מיקס ירוקים עם בטטה צרובה ושקדים ברוטב מתוק |<br></br> 3 / 4.5 ליט'      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 165₪/110₪  </span>
 </div>
 <div class="item">
    סלט יווני |<br></br> 3 / 4.5 ליט'      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 165₪/110₪  </span>
