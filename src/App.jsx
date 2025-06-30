@@ -34,28 +34,27 @@ function App() {
 
 
 
-
 <div class="section">
-        <h3>מגשי פרימיום</h3>
-<div class="item">
-  מגש גבינות עשיר ומפנק  | L / M<span class="sizes"> 385₪ / 285₪  </span>
-</div>
-<div class="item">
-  מגש דגים מעושנים  | L / M<span class="sizes"> 385₪ / 285₪  </span>
-</div> 
-<div class="item">
-  מגש בורקיטס עבודת יד במילוי ממרח פסטו , בולגרית וחסה לאליק   | 20 יח' / 30 יח'  <br></br> <span class="sizes"  style={{ position: "relative", top: "22px" }}> 385₪/255₪  </span>
-</div>
-<div class="item">
-  טרטלים במילוי שמנת וסלמון |<br></br> 20 יח' / 30 יח'   <span class="sizes"  style={{ position: "relative", top: "22px" }}> 285₪/190₪  </span>
-</div>
 
+        <h3>פסטות | 3 / 4.5 ליט'</h3>
 <div class="item">
-  מגש פיתות סביח אישיות <br></br> עם סקוויז טחינה ועמבה | 15 יח' / 25 יח'   <span class="sizes"  style={{ position: "relative", top: "22px"  }}> 360₪/215₪  </span>
+   שמנת פטריות      <span class="sizes"  style={{ position: "relative", right: "2px" }}> 385₪/255₪  </span>
 </div>
 <div class="item">
-  מגש חצאי טורטיות <br></br> במילוי סלט טונה / ביצים | 20 יח'   <span class="sizes"  style={{ position: "relative", top: "21px" }}> 315₪  </span>
-</div>   
+ פסטה  רוזה    <span class="sizes"  style={{ position: "relative" , right: "1px" }}> 1655₪/110₪  </span>
+</div>
+<div class="item">
+ פסטה עגבניות     <span class="sizes"  style={{ position: "relative" , right: "1px" }}> 165₪/110₪  </span>
+</div>
+<div class="item">
+  פסטה  פסטו שמנת  <br></br> <span class="sizes"  style={{ position: "relative", right: "1px" , top: "21px" }}> 385₪/255₪  </span>
+</div>
+<div class="item">
+ לזניה     <span class="sizes"  style={{ position: "relative" , right: "1px" }}> 165₪/110₪  </span>
+</div>
+<div class="item">
+ תפו"א מוקרם   <span class="sizes"  style={{ position: "relative" , right: "1px" }}> 165₪/110₪  </span>
+</div>
    </div>
    
 
