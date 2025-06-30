@@ -58,37 +58,37 @@ function App() {
 
 <div class="section">
 
-        <h3>סלטים</h3>
+        <h3>קינוחים</h3>
 <div class="item">
-   סלט חלומי |<br></br> 3 / 4.5 ליט'      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 165₪/110₪  </span>
+   מגש פובלובות - תוספת פרי לבחירה  |<br></br> 20 יח' / 30  יח'      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 285₪/190₪  </span>
 </div>
 <div class="item">
-   סלט כרוב עם פיצוחים ברוטב חמאת בוטנים |<br></br> 3 / 4.5 ליט'      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 165₪/110₪  </span>
+   מגש פחזניות   |<br></br> 20 יח' / 30  יח'      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 305₪/205₪  </span>
 </div>
 <div class="item">
-    מיקס ירוקים עם בטטה צרובה ושקדים ברוטב מתוק |<br></br> 3 / 4.5 ליט'      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 165₪/110₪  </span>
+   מגש קונוסים (פילו) במילוי קרם |<br></br> 20 יח' / 30  יח'      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 285₪/190₪  </span>
 </div>
 <div class="item">
-   סלט יווני |<br></br> 3 / 4.5 ליט'      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 165₪/110₪  </span>
+מגש טארלטים במילוי  קרם פיסטוק , שוקולד לבן , קינדר וכו'   |<br></br> 22 יח'     <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 179₪  </span>
 </div>
 <div class="item">
-   סלט קינואה בלווי ירקות |<br></br> 3 / 4.5 ליט'      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 165₪/110₪  </span>
+   אצבעות מילפיי  |<br></br> 10 יח' / 20  יח'      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 295₪/150₪  </span>
 </div>
 <div class="item">
-   סלט כרוב עם פיצוחים ברוטב מתוק |<br></br> 3 / 4.5 ליט'      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 165₪/110₪  </span>
+   מגש מיקס עוגיות - בראוניז , תמרים , שקדים |<br></br> L / M      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 265₪/180₪  </span>
 </div>
 <div class="item">
-   סלט ישראלי |<br></br> 3 / 4.5 ליט'      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 165₪/110₪  </span>
+  מגש מיקס עוגות - שוקולד , תפוזים , גזר |<br></br> L / M     <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 185₪/120₪  </span>
 </div>
 <div class="item">
-   מגש ירקות אנטי-פסטי בתנור |<br></br> L / M      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 185₪/120₪  </span>
+   פס שוקולד שמרים |<br></br> 2 יח'       <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 140₪  </span>
 </div>
 <div class="item">
-   כוסות אישיות עם ירקות חתוכים |<br></br> 20 יח' / 30 יח'      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 185₪/130₪  </span>
+   עוגת קדאיף |<br></br> קוטר 29     <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 185₪  </span>
 </div>
 
 <div class="item">
-   פלטת ירקות |<br></br> L / M      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 185₪/130₪  </span>
+     מגש פירות העונה |<br></br> L / M      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 270₪/180₪  </span>
 </div>
    </div>
    
