@@ -22,23 +22,15 @@ function App() {
 
  </header>
 
+  <div className="all">
 
-  <div className="menu">
-
-
-
-
-  </div>
-
-  <div className="menu">
-
-
+  <div className="menu1">
 
 <div class="section">
 
         <h3>פסטות | 3 / 4.5 ליט'</h3>
 <div class="item">
-   שמנת פטריות      <span class="sizes"  style={{ position: "relative", right: "2px" }}> 385₪/255₪  </span>
+   פסטה שמנת פטריות <span class="sizes"  style={{ position: "relative", right: "2px" }}> 385₪/255₪  </span>
 </div>
 <div class="item">
  פסטה  רוזה    <span class="sizes"  style={{ position: "relative" , right: "1px" }}> 1655₪/110₪  </span>
@@ -47,7 +39,7 @@ function App() {
  פסטה עגבניות     <span class="sizes"  style={{ position: "relative" , right: "1px" }}> 165₪/110₪  </span>
 </div>
 <div class="item">
-  פסטה  פסטו שמנת  <br></br> <span class="sizes"  style={{ position: "relative", right: "1px" , top: "21px" }}> 385₪/255₪  </span>
+  פסטה  פסטו שמנת  <br></br> <span class="sizes"  style={{ position: "relative", right: "1px"  }}> 385₪/255₪  </span>
 </div>
 <div class="item">
  לזניה     <span class="sizes"  style={{ position: "relative" , right: "1px" }}> 165₪/110₪  </span>
@@ -56,10 +48,47 @@ function App() {
  תפו"א מוקרם   <span class="sizes"  style={{ position: "relative" , right: "1px" }}> 165₪/110₪  </span>
 </div>
    </div>
+
+
+  </div>
+
+  <div className="menu2">
+
+
+
+<div class="section">
+
+        <h3>קישים ומאפים</h3>
+<div class="item">
+   קיש גבינות וברוקולי | קוטר 29      <span class="sizes"  style={{ position: "relative", right: "2px" }}> 165₪  </span>
+</div>
+<div class="item">
+   קיש גבינות ובטטה | קוטר 29      <span class="sizes"  style={{ position: "relative", right: "2px" }}> 165₪  </span>
+</div>
+<div class="item">
+   קיש גבינות ופטריות | קוטר 29      <span class="sizes"  style={{ position: "relative", right: "2px" }}> 165₪  </span>
+</div>
+<div class="item">
+   קיש גבינות וטירס | קוטר 29      <span class="sizes"  style={{ position: "relative", right: "2px" }}> 165₪  </span>
+</div>
+<div class="item">
+   קיש גבינות ובצלים | קוטר 29      <span class="sizes"  style={{ position: "relative", right: "2px" }}> 165₪  </span>
+</div>
+<div class="item">
+   קיש גבינות וברוקולי | קוטר 29      <span class="sizes"  style={{ position: "relative", right: "2px" }}> 165₪  </span>
+</div>
+<div class="item">
+   מגש לחמים בלווי מטבלים      <span class="sizes"  style={{ position: "relative", right: "2px" }}> 235₪  </span>
+</div>
+<div class="item">
+   מגש לחם שום |<br></br> 10 יח' / 20 יח'      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "20px" }}> 165₪/80₪  </span>
+</div>
+   </div>
    
 
 
   </div>
+</div>
 </div>
 
 
