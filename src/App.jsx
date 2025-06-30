@@ -22,9 +22,9 @@ function App() {
 
  </header>
 
-  <div className="all">
-
-  <div className="menu1">
+{/*   <div className="all">
+ */}
+{/*   <div className="menu1">
 
 <div class="section">
 
@@ -50,7 +50,7 @@ function App() {
    </div>
 
 
-  </div>
+  </div> */}
 
   <div className="menu2">
 
@@ -58,30 +58,37 @@ function App() {
 
 <div class="section">
 
-        <h3>קישים ומאפים</h3>
+        <h3>סלטים</h3>
 <div class="item">
-   קיש גבינות וברוקולי |<br></br> קוטר 29      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 165₪  </span>
+   סלט חלומי |<br></br> 3 / 4.5 ליט'      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 165₪/110₪  </span>
 </div>
 <div class="item">
-   קיש גבינות ובטטה |<br></br> קוטר 29      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 165₪  </span>
+   סלט כרוב עם פיצוחים ברוטב חמאת בוטנים |<br></br> 3 / 4.5 ליט'      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 165₪/110₪  </span>
 </div>
 <div class="item">
-   קיש גבינות ופטריות |<br></br> קוטר 29      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 165₪  </span>
+    מיקס ירוקים עם בטטה צרובה ושקדים ברוטב מתוק|<br></br> 3 / 4.5 ליט'      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 165₪/110₪  </span>
 </div>
 <div class="item">
-   קיש גבינות וטירס |<br></br> קוטר 29      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 165₪  </span>
+   סלט יווני |<br></br> 3 / 4.5 ליט'      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 165₪/110₪  </span>
 </div>
 <div class="item">
-   קיש גבינות ובצלים |<br></br> קוטר 29      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 165₪  </span>
+   סלט קינואה בלווי ירקות |<br></br> 3 / 4.5 ליט'      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 165₪/110₪  </span>
 </div>
 <div class="item">
-   קיש גבינות וברוקולי |<br></br> קוטר 29      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 165₪  </span>
+   סלט כרוב עם פיצוחים ברוטב מתוק |<br></br> 3 / 4.5 ליט'      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 165₪/110₪  </span>
 </div>
 <div class="item">
-   מגש לחמים בלווי מטבלים      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "1px" }}> 235₪  </span>
+   סלט ישראלי |<br></br> 3 / 4.5 ליט'      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 165₪/110₪  </span>
 </div>
 <div class="item">
-   מגש לחם שום |<br></br> 10 יח' / 20 יח'      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 165₪/80₪  </span>
+   מגש ירקות אנטי-פסטי בתנור |<br></br> L / M      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 185₪/120₪  </span>
+</div>
+<div class="item">
+   כוסות אישיות עם ירקות חתוכים |<br></br> 20 יח' / 30 יח'      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 185₪/130₪  </span>
+</div>
+
+<div class="item">
+   פלטת ירקות |<br></br> L / M      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 185₪/130₪  </span>
 </div>
    </div>
    
@@ -89,8 +96,8 @@ function App() {
 
   </div>
 </div>
-</div>
-
+{/* </div>
+ */}
 
  
 
