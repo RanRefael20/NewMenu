@@ -69,7 +69,7 @@ function App() {
    מגש קונוסים (פילו) במילוי קרם |<br></br> 20 יח' / 30  יח'      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 285₪/190₪  </span>
 </div>
 <div class="item">
-מגש טארלטים במילוי  קרם פיסטוק , שוקולד לבן , קינדר וכו'   |<br></br> 22 יח'     <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 179₪  </span>
+מגש טארלטים במילוי  קרם פיסטוק , שוקולד לבן , קינדר וכו'  <br></br> 22 יח'     <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 179₪  </span>
 </div>
 <div class="item">
    אצבעות מילפיי  |<br></br> 10 יח' / 20  יח'      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "19px" }}> 295₪/150₪  </span>
