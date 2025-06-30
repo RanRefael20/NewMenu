@@ -75,7 +75,7 @@ body {
   background-color: #f8f1e7;
   border: 3px solid #4C3D3D;
   border-radius: 8px;
-  width: 100%;
+  width: 105%;
   position: relative;
   top: -50px; /*67 תחילה */
   right: -6px; /*45 תחילה */
@@ -149,7 +149,7 @@ footer a {
     .header-container  {
     position: relative;
     top: 18px;
-    right: 50px;
+    right: 53px;
   }
   .header-container h1 {
 
@@ -171,8 +171,8 @@ footer a {
     font-size: 0.6rem;
     padding: 1px;
     line-height: 1.1;
-    top: -53px;
-    right: -33px;
+    top: -56px;
+    right: -37px;
 /*     transform: rotate(22deg);
  */  }
 
