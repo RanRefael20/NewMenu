@@ -60,25 +60,25 @@ function App() {
 
         <h3>קישים ומאפים</h3>
 <div class="item">
-   קיש גבינות וברוקולי | קוטר 29      <span class="sizes"  style={{ position: "relative", right: "2px" }}> 165₪  </span>
+   קיש גבינות וברוקולי |<br></br> קוטר 29      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "20px" }}> 165₪  </span>
 </div>
 <div class="item">
-   קיש גבינות ובטטה | קוטר 29      <span class="sizes"  style={{ position: "relative", right: "2px" }}> 165₪  </span>
+   קיש גבינות ובטטה |<br></br> קוטר 29      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "20px" }}> 165₪  </span>
 </div>
 <div class="item">
-   קיש גבינות ופטריות | קוטר 29      <span class="sizes"  style={{ position: "relative", right: "2px" }}> 165₪  </span>
+   קיש גבינות ופטריות |<br></br> קוטר 29      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "20px" }}> 165₪  </span>
 </div>
 <div class="item">
-   קיש גבינות וטירס | קוטר 29      <span class="sizes"  style={{ position: "relative", right: "2px" }}> 165₪  </span>
+   קיש גבינות וטירס |<br></br> קוטר 29      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "20px" }}> 165₪  </span>
 </div>
 <div class="item">
-   קיש גבינות ובצלים | קוטר 29      <span class="sizes"  style={{ position: "relative", right: "2px" }}> 165₪  </span>
+   קיש גבינות ובצלים |<br></br> קוטר 29      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "20px" }}> 165₪  </span>
 </div>
 <div class="item">
-   קיש גבינות וברוקולי | קוטר 29      <span class="sizes"  style={{ position: "relative", right: "2px" }}> 165₪  </span>
+   קיש גבינות וברוקולי |<br></br> קוטר 29      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "20px" }}> 165₪  </span>
 </div>
 <div class="item">
-   מגש לחמים בלווי מטבלים      <span class="sizes"  style={{ position: "relative", right: "2px" }}> 235₪  </span>
+   מגש לחמים בלווי מטבלים      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "20px" }}> 235₪  </span>
 </div>
 <div class="item">
    מגש לחם שום |<br></br> 10 יח' / 20 יח'      <span class="sizes"  style={{ position: "relative", right: "2px" , top: "20px" }}> 165₪/80₪  </span>
