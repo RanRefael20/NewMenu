@@ -30,16 +30,16 @@ function App() {
 
         <h3>פסטות | 3 / 4.5 ליט'</h3>
 <div class="item">
-   פסטה שמנת פטריות <span class="sizes"  style={{ position: "relative", right: "2px" }}> 385₪/255₪  </span>
+   פסטה שמנת פטריות <span class="sizes"  style={{ position: "relative", right: "2px" }}> 165₪/110₪  </span>
 </div>
 <div class="item">
- פסטה  רוזה    <span class="sizes"  style={{ position: "relative" , right: "1px" }}> 1655₪/110₪  </span>
+ פסטה  רוזה    <span class="sizes"  style={{ position: "relative" , right: "1px" }}> 165₪/110₪  </span>
 </div>
 <div class="item">
  פסטה עגבניות     <span class="sizes"  style={{ position: "relative" , right: "1px" }}> 165₪/110₪  </span>
 </div>
 <div class="item">
-  פסטה  פסטו שמנת  <br></br> <span class="sizes"  style={{ position: "relative", right: "1px"  }}> 385₪/255₪  </span>
+  פסטה  פסטו שמנת  <br></br> <span class="sizes"  style={{ position: "relative", right: "1px"  }}> 165₪/110₪  </span>
 </div>
 <div class="item">
  לזניה     <span class="sizes"  style={{ position: "relative" , right: "1px" }}> 165₪/110₪  </span>
